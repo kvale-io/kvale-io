@@ -1,4 +1,24 @@
-## Hi there 👋
+# Khairaan Vale
+
+Building Valecode Systems.
+
+Repo intelligence, AI literacy, and recovered tools for builders who need function before hype.
+
+## Current Signal
+
+- The Salvage Yard
+- RepoBot
+- Valecode Systems
+
+## Public Surface
+
+- Website: https://valecode.net
+- X: https://x.com/RepoBot_001
+
+## Focus
+
+Mapping useful systems, buried tools, and repo intelligence into cleaner builder workflows.
+
 
 <!--
 **kvale-io/kvale-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
