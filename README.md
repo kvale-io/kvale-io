@@ -13,7 +13,7 @@ Repo intelligence, AI literacy, and recovered tools for builders who need functi
 ## Public Surface
 
 - Website: https://valecode.net
-- X: https://x.com/RepoBot_001
+- Website: https://Repobot.valecode.net
 
 ## Focus
 
