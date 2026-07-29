@@ -1,6 +1,6 @@
 # Khairaan Vale
 
-Building Valecode Systems.
+Building systems for fun.
 
 Repo intelligence, AI literacy, and recovered tools for builders who need function before hype.
 
